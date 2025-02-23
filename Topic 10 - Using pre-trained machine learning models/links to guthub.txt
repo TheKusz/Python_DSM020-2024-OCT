@@ -1,0 +1,2 @@
+https://github.com/tensorflow/models/tree/master/research/audioset/yamnet
+https://research.google.com/audioset/
